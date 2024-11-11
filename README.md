@@ -11,8 +11,8 @@
 # Set Up OSRM Server
 ## Run the following commands
 
-1. sudo apt update
-2. sudo apt install -y cmake g++ zlib1g-dev libbz2-dev libstxxl1 libstxxl-dev libxml2-dev libboost-all-dev liblua5.2-dev libtbb-dev
+1. `sudo apt update`
+2. `sudo apt install -y cmake g++ zlib1g-dev libbz2-dev libstxxl1 libstxxl-dev libxml2-dev libboost-all-dev liblua5.2-dev libtbb-dev`
 
 ## Install OSRM
 
