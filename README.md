@@ -28,19 +28,19 @@
 
 ## Data Preparation
 
-1. /path/to/osrm-backend/build/osrm-extract -p /path/to/osrm-backend/profiles/car.lua south-africa-latest.osm.pbf
-2. /path/to/osrm-backend/build/osrm-partition south-africa-latest.osrm
-3. /path/to/osrm-backend/build/osrm-customize south-africa-latest.osrm
+1. `/path/to/osrm-backend/build/osrm-extract -p /path/to/osrm-backend/profiles/car.lua south-africa-latest.osm.pbf`
+2. `/path/to/osrm-backend/build/osrm-partition south-africa-latest.osrm`
+3. `/path/to/osrm-backend/build/osrm-customize south-africa-latest.osrm`
 
 ## Start the OSRM Server
 
-1. /path/to/osrm-backend/build/osrm-routed south-africa-latest.osrm
+`/path/to/osrm-backend/build/osrm-routed south-africa-latest.osrm`
 
 By default, the OSRM server will start on port 5000. You can access it at http://localhost:5000
 
 ## Test the OSRM Server
 
-1. http://localhost:5000/route/v1/driving/-26.195246,28.034088;-26.7117,27.8380?overview=false
+`http://localhost:5000/route/v1/driving/-26.195246,28.034088;-26.7117,27.8380?overview=false`
 
 # Run the python server
 
