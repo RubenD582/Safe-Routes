@@ -21,6 +21,8 @@
 
 ## Build OSRM
 
+Inside the `osrm-backend` folder run
+
 1. `mkdir -p build`
 2. `cd build`
 3. `cmake ..`
