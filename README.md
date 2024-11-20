@@ -1,4 +1,4 @@
-![screen9](https://github.com/user-attachments/assets/4679f7b1-40d6-4d21-81af-f53219a38009)
+<img src="https://github.com/user-attachments/assets/4679f7b1-40d6-4d21-81af-f53219a38009" alt="screen9" width="200px"/>
 
 # Safe Routes - OSRM Server Setup
 
