@@ -1,4 +1,4 @@
-Developed a Discovery Insure clone using Flutter and Python, integrating Safe Routes with real-time, OSRM-powered routing to optimize user safety by dynamically avoiding high-risk areas.
+Discovery Insure clone using Flutter and Python, integrating Safe Routes with real-time, OSRM-powered routing to optimize user safety by dynamically avoiding high-risk areas.
 
 <img src="https://github.com/user-attachments/assets/4679f7b1-40d6-4d21-81af-f53219a38009" alt="screen9" width="200px"/>
 
